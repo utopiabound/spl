@@ -29,25 +29,18 @@
 .DS_Store
 modules.order
 Makefile
-Makefile.in
 
 #
 # Top level generated files specific to this top level dir
 #
-/configure
+/Makefile
 /config.log
 /config.status
 /libtool
 /spl_config.h
 /spl.spec
 /spl-modules.spec
-/spl.release
-/dkms.conf
-/PKGBUILD-spl
-/PKGBUILD-spl-modules
 /stamp-h1
-/aclocal.m4
-/autom4te.cache
 
 #
 # Top level generic files
